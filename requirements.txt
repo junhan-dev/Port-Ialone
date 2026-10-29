@@ -1,0 +1,7 @@
+streamlit>=1.36
+streamlit-folium>=0.20
+folium>=0.17
+pandas>=2.1
+websocket-client>=1.8
+python-dotenv>=1.0
+streamlit-autorefresh>=1.0
