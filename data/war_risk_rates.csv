@@ -1,0 +1,10 @@
+
+date,region,rate_low_pct,rate_high_pct,source,estimate_type,notes
+2026-02-01,hormuz,0.15,0.25,Insurance Business,reported_range,개전 전 기준 구간; 정확한 관측일은 미확인
+2026-03-28,hormuz,1,5,Al-Monitor,reported_range,보도된 요율 범위
+2026-03-28,hormuz,3.5,10,Al-Monitor,broker_estimate,중개사 추정치; 위 행과 별도 관측치
+2026-06-01,hormuz,2,2,Xinhua,approximate_estimate,미국-이란 MoU 이후 보도된 약 2%
+2026-07-10,hormuz,5,5,Xinhua,approximate_estimate,새 기준으로 거론된 약 5%
+2026-07-17,hormuz,3,10,The National - Marsh,reported_range,보도된 요율 범위
+2026-07-22,hormuz,7.5,10,S&P Global - Marsh,reported_range,호르무즈 요율; 밥엘만데브 0.5%는 별도 해역
+2026-07-22,bab_el_mandeb,0.5,0.5,S&P Global - Marsh,approximate_estimate,별도 해역 벤치마크
